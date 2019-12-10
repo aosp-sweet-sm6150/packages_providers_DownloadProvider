@@ -11,7 +11,7 @@
     <!-- Text for button to manually resume all manually paused downloads [CHAR LIMIT=25] -->
     <string name="button_resume_download">Folytatás</string>
     <!-- Text for button to manually manually pause all running downloads [CHAR LIMIT=25] -->
-    <string name="button_pause_download">szünet</string>
+    <string name="button_pause_download">Szünet</string>
     <!-- Title summarizing paused downloads. [CHAR LIMIT=32] -->
     <string name="notif_summary_paused">%d szünetel</string>
 </resources>
