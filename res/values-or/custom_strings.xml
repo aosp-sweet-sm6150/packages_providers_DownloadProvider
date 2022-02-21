@@ -15,5 +15,10 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="text_download_speed">id = \"ପାଠ\" id = \"ଆକାର\" ଉଦାହରଣ = \"230 kB\"</string>
     <string name="download_paused">ବିରତି ହୋଇଛି</string>
+    <string name="download_paused_percent">ବିରତ ହୋଇଛି, %d%%</string>
+    <string name="button_resume_download">ପୁଣି ଆରମ୍ଭ କରିବା</string>
+    <string name="button_pause_download">ବିରତି</string>
+    <string name="notif_summary_paused">% d ବିରାମ |</string>
 </resources>
